@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646901381 source:d:\studia\semestr 6\struktury danych i z³o¿onoœæ obliczeniowa\lab1\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<time.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649319152 source:d:\studia\semestr 6\struktury danych i z³o¿onoœæ obliczeniowa\lab2\kruskal\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<algorithm>
+	<chrono>
+	<fstream>
+	<string>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1646849852 source:d:\studia\semestr 6\struktury danych i z³o¿onoœæ obliczeniowa\lab1\sortowanie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1646846109 source:d:\studia\semestr 6\struktury danych i z³o¿onoœæ obliczeniowa\lab1\sortowanie\quick.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

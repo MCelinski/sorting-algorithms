@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646907105 source:d:\studia\semestr 6\struktury danych i z³o¿onoœæ obliczeniowa\lab1\sortowanie\mainbabelkowe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<time.h>
+
